@@ -37,9 +37,14 @@ My technical skills include Python, SQL, MySQL, PostgreSQL, ETL tools R, Power B
 
 
 
+
 🚀 I thrive on opportunities to innovate, grow, and contribute to solving real-world problems. Whether through teaching, data analytics, or collaborative projects, I am always eager to make a difference.
 
-📩 Let’s connect and explore how we can work together! 
+## 🔗 **Connect with Me**
+🔗 LinkedIn: [Tarun Sai Reddy Kummetha](https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237/)
+
+###📩 **Let's Build Something Amazing with Data!**
+
 
 <!--
 **Tarun110/Tarun110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
