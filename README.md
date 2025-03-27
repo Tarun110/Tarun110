@@ -43,7 +43,7 @@ My technical skills include Python, SQL, MySQL, PostgreSQL, ETL tools R, Power B
 ## 🔗 **Connect with Me**
 🔗 LinkedIn: [Tarun Sai Reddy Kummetha](https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237/)
 
-###📩 **Let's Build Something Amazing with Data!**
+📩 **Let's Build Something Amazing with Data!**
 
 
 <!--
