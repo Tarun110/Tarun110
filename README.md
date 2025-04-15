@@ -7,14 +7,14 @@
 - 🔍 Passionate about **data governance, automation, and scalable data solutions**.
 
 ## 🏢 **Work Experience**
-### **Data Analyst | Anthem (Jun 2024 – Present)**
+### **Data Analyst | Anthem (May 2024 – Nov 2024)**
 - Analyzed **healthcare claims & provider data** using SQL & Python, improving service delivery by **25%**.
 - Designed **automated dashboards** in Power BI & Tableau, reducing report generation time by **30%**.
 - Developed **ETL pipelines** in Python & AWS Glue, enhancing data integration **accuracy by 20%**.
 - Implemented **HIPAA compliance standards** for secure data handling.
 - Built **predictive analytics models** for patient risk identification, improving patient outcomes.
 
-### **Data Analyst | Magna Infotech (Aug 2021 – Jul 2023)**
+### **Data Analyst | Magna Infotech (Nov 2021 – Jul 2023)**
 - Optimized **data pipelines**, processing **500K+ records monthly** using SQL & Python.
 - Led **data analysis projects**, improving decision-making accuracy by **25%**.
 - Developed **real-time dashboards** for 50+ stakeholders, reducing reporting time by **40%**.
