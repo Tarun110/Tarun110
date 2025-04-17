@@ -5,8 +5,16 @@
 - 🚀 Skilled in **SQL, Python, ETL, Data Visualization, and Cloud Technologies**.
 - 🏥 Familiar with **HIPAA compliance** and secure data handling.
 - 🔍 Passionate about **data governance, automation, and scalable data solutions**.
+- 🤖 Implement machine learning models for forecasting and classification
+- 🧹 Automate ETL workflows and clean messy datasets with Pandas & NumPy
 
 ## 🏢 **Work Experience**
+### 💼 **Citi** — *Data Analyst*  
+**Feb 2025 – Present | New York, NY**
+- Built a Credit Risk Analysis dashboard using SQL, Python, and Power BI, reducing loan defaults by 15%.  
+- Automated Basel III reports with SQL and Excel VBA, cutting manual work by 40%.  
+- Implemented customer segmentation via K-Means and visualized insights in Tableau, improving engagement by 22%.
+
 ### **Data Analyst | Anthem (May 2024 – Nov 2024)**
 - Analyzed **healthcare claims & provider data** using SQL & Python, improving service delivery by **25%**.
 - Designed **automated dashboards** in Power BI & Tableau, reducing report generation time by **30%**.
@@ -31,9 +39,14 @@ I graduated as a Master’s student in Data Science at Stevens Institute of Tech
 
 I believe in the power of leadership and collaboration to inspire change and create value. At my work, I always collaborated with different teams to make work easier. During my undergrad, I was the Student Coordinator for the AIM Student Chapter, where I led a team to promote events and engage a diverse audience. I also directed event planning and management for the Annual Techno Fest at SVEC, showcasing my ability to organize and execute large-scale initiatives successfully.
 
-## 💪 Technical Skills & Expertise
+## 🛠️ Skills Snapshot
 
-My technical skills include Python, SQL, MySQL, PostgreSQL, ETL tools R, Power BI, Tableau, Machine Learning, Data Visualization and Statistical Analysis. I combine technical acumen with strong problem-solving, teamwork, and communication abilities to deliver impactful results.
+**Languages**: Python, SQL, R, Scala  
+**Analytics & ML**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy, Keras, TensorFlow  
+**Databases**: MySQL, SQL Server, BigQuery, Snowflake  
+**Cloud & Tools**: AWS, Azure, Databricks, Hadoop, Apache Spark, Airflow  
+**BI Tools**: Tableau, Power BI, Looker  
+**Other**: Advanced Excel, Git, Jupyter, VS Code 
 
 
 
