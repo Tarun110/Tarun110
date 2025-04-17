@@ -15,14 +15,16 @@
 - Automated Basel III reports with SQL and Excel VBA, cutting manual work by 40%.  
 - Implemented customer segmentation via K-Means and visualized insights in Tableau, improving engagement by 22%.
 
-### **Data Analyst | Anthem (May 2024 – Nov 2024)**
+### 💼 **Anthem Inc.** — *Data Analyst*  
+**May 2024 – Nov 2024 | Indianapolis, IN**
 - Analyzed **healthcare claims & provider data** using SQL & Python, improving service delivery by **25%**.
 - Designed **automated dashboards** in Power BI & Tableau, reducing report generation time by **30%**.
 - Developed **ETL pipelines** in Python & AWS Glue, enhancing data integration **accuracy by 20%**.
 - Implemented **HIPAA compliance standards** for secure data handling.
 - Built **predictive analytics models** for patient risk identification, improving patient outcomes.
 
-### **Data Analyst | Magna Infotech (Nov 2021 – Jul 2023)**
+### 💼 **Magna Infotech** — *Data Analyst*  
+**Nov 2020 – Jul 2023 | Bengaluru, IN**
 - Optimized **data pipelines**, processing **500K+ records monthly** using SQL & Python.
 - Led **data analysis projects**, improving decision-making accuracy by **25%**.
 - Developed **real-time dashboards** for 50+ stakeholders, reducing reporting time by **40%**.
