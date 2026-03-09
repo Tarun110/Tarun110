@@ -1,77 +1,160 @@
-# 👋 Hello GitHub community, my name is Tarun Sai Reddy Kummetha!
+<h1 align="center">Hi 👋, I'm Tarun Sai Reddy Kummetha</h1>
+<h3 align="center">Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
 
-## 🔍 **About Me**
-- 📊 **Data Analytics Professional** with experience in healthcare and big data technologies.
-- 🚀 Skilled in **SQL, Python, ETL, Data Visualization, and Cloud Technologies**.
-- 🏥 Familiar with **HIPAA compliance** and secure data handling.
-- 🔍 Passionate about **data governance, automation, and scalable data solutions**.
-- 🤖 Implement machine learning models for forecasting and classification
-- 🧹 Automate ETL workflows and clean messy datasets with Pandas & NumPy
-
-## 🏢 **Work Experience**
-### 💼 **Citi** — *Data Analyst*  
-**Feb 2025 – Present | New York, NY**
-- Built a Credit Risk Analysis dashboard using SQL, Python, and Power BI, reducing loan defaults by 15%.  
-- Automated Basel III reports with SQL and Excel VBA, cutting manual work by 40%.  
-- Implemented customer segmentation via K-Means and visualized insights in Tableau, improving engagement by 22%.
-
-### 💼 **Anthem Inc.** — *Data Analyst*  
-**May 2024 – Nov 2024 | Indianapolis, IN**
-- Analyzed **healthcare claims & provider data** using SQL & Python, improving service delivery by **25%**.
-- Designed **automated dashboards** in Power BI & Tableau, reducing report generation time by **30%**.
-- Developed **ETL pipelines** in Python & AWS Glue, enhancing data integration **accuracy by 20%**.
-- Implemented **HIPAA compliance standards** for secure data handling.
-- Built **predictive analytics models** for patient risk identification, improving patient outcomes.
-
-### 💼 **Magna Infotech** — *Data Analyst*  
-**Nov 2020 – Jul 2023 | Bengaluru, IN**
-- Optimized **data pipelines**, processing **500K+ records monthly** using SQL & Python.
-- Led **data analysis projects**, improving decision-making accuracy by **25%**.
-- Developed **real-time dashboards** for 50+ stakeholders, reducing reporting time by **40%**.
-- Integrated & migrated **legacy systems to AWS & Azure**, improving retrieval speeds by **50%**.
+<p align="center">
+📍 St. James, NY <br>
+📊 Building Data Science, Machine Learning & Analytics Solutions
+</p>
 
 ---
 
-## 🎓 Education
+## 🚀 About Me
 
-I graduated as a Master’s student in Data Science at Stevens Institute of Technology, where I’ve achieved a GPA of 3.7/4.0. My academic focus includes Machine Learning, Statistical Methods, Deep Learning, Optimization Models, and Big Data. I hold a Bachelor of Technology in Electronic and Instrumentation Engineering from the Sree Vidyanikethan Engineering College, where I developed a strong foundation in Artificial Intelligence, Python, Data Visualizatoin, and Data Mining. I’m passionate about harnessing the power of data to uncover actionable insights, solve complex challenges, and drive meaningful impact.
- 
+Data Scientist / Data Analyst with **3.5+ years of experience** building data-driven solutions across **finance, healthcare, and technology domains**.
 
-## 🌟 Leadership & Impact
+I specialize in **machine learning, data engineering pipelines, and business intelligence dashboards** that turn complex data into actionable insights.
 
-I believe in the power of leadership and collaboration to inspire change and create value. At my work, I always collaborated with different teams to make work easier. During my undergrad, I was the Student Coordinator for the AIM Student Chapter, where I led a team to promote events and engage a diverse audience. I also directed event planning and management for the Annual Techno Fest at SVEC, showcasing my ability to organize and execute large-scale initiatives successfully.
+🔹 Machine Learning & Predictive Modeling  
+🔹 Data Engineering & ETL Pipelines  
+🔹 Business Intelligence & Dashboarding  
+🔹 Cloud Data Platforms  
 
-## 🛠️ Skills Snapshot
+---
 
-**Languages**: Python, SQL, R, Scala  
-**Analytics & ML**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy, Keras, TensorFlow  
-**Databases**: MySQL, SQL Server, BigQuery, Snowflake  
-**Cloud & Tools**: AWS, Azure, Databricks, Hadoop, Apache Spark, Airflow  
-**BI Tools**: Tableau, Power BI, Looker  
-**Other**: Advanced Excel, Git, Jupyter, VS Code 
+# 🛠 Tech Stack
 
+### Programming Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,scala" />
+<img src="https://img.shields.io/badge/SQL-Database-blue" />
+</p>
 
+### Data Science & Machine Learning
 
-🚀 I thrive on opportunities to innovate, grow, and contribute to solving real-world problems. Whether through teaching, data analytics, or collaborative projects, I am always eager to make a difference.
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue" />
+<img src="https://img.shields.io/badge/ScikitLearn-ML-orange" />
+</p>
 
-## 🔗 **Connect with Me**
-🔗 LinkedIn: [Tarun Sai Reddy Kummetha](https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237/)
+### Data Engineering
 
-📩 **Let's Build Something Amazing with Data!**
+<p>
+<img src="https://skillicons.dev/icons?i=spark" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-Workflow%20Orchestration-red" />
+<img src="https://img.shields.io/badge/ETL-Pipelines-green" />
+</p>
 
+### Cloud Platforms
 
-<!--
-**Tarun110/Tarun110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://img.shields.io/badge/Databricks-Analytics-red" />
+<img src="https://img.shields.io/badge/BigQuery-DataWarehouse-blue" />
+</p>
 
-Here are some ideas to get you started:
+### Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow" />
+<img src="https://img.shields.io/badge/Tableau-Visualization-blue" />
+<img src="https://img.shields.io/badge/Excel-Advanced-green" />
+</p>
+
+---
+
+# 💼 Professional Experience
+
+### Data Scientist — Citi  
+📍 New York, NY | Feb 2025 – Present
+
+- Built **credit risk predictive models** reducing loan defaults by **15%**
+- Developed **ETL pipelines integrating financial datasets**
+- Implemented ML models: Logistic Regression, Random Forest, Decision Trees
+- Automated **Basel III regulatory reporting**, reducing manual effort by **40%**
+- Created **Power BI dashboards** for executive KPI tracking
+
+---
+
+### Data Scientist — Anthem Inc.  
+📍 Indianapolis, IN | May 2024 – Nov 2024
+
+- Engineered ETL pipelines processing **5M+ healthcare records**
+- Built forecasting models improving **patient admission predictions by 20%**
+- Conducted **claims analytics & anomaly detection**
+- Built **Tableau dashboards for operational monitoring**
+
+---
+
+### Data Analyst — Magna Infotech  
+📍 Bengaluru, India | Nov 2020 – Jul 2023
+
+- Processed **1M+ transaction records** for analytics
+- Built **Power BI dashboards for 50+ stakeholders**
+- Reduced acquisition cost by **10% using statistical analysis**
+- Automated competitor pricing analysis using **web scraping**
+
+---
+
+# 📊 Projects
+
+### 🚕 Uber Data Analytics Platform
+
+- Designed **Star Schema architecture in BigQuery**
+- Built ETL pipelines using **Cloud Data Fusion**
+- Processed **1.2M transactions daily**
+- Created **Looker dashboards for real-time analytics**
+
+---
+
+### 🏡 House Price Dynamics
+
+- Optimized Spark pipelines reducing runtime by **25%**
+- Reduced data errors from **15% → 3%**
+- Built **Tableau dashboards for housing market insights**
+
+---
+
+# 🎓 Education
+
+🎓 **Master of Science – Data Science**  
+Stevens Institute of Technology  
+
+🎓 **Bachelor of Technology – Electronics & Instrumentation Engineering**  
+Sree Vidyanikethan Engineering College  
+
+---
+
+# 📜 Certifications
+
+✔ Google Data Analytics Certification — Coursera
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" height="180"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Tarun%20Sai%20Reddy%20Kummetha-blue?logo=linkedin">
+</a>
+</p>
+
+---
+
+# 🚀 Motto
+
+**Turning data into insights, insights into decisions, and decisions into impact.**
