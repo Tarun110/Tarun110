@@ -158,48 +158,6 @@ Cloud-native analytics solution processing Uber trip data using ETL pipelines an
 
 ---
 
-## Revenue Retail Optimization SQL
-
-End-to-end SQL analytics project analyzing revenue, promotions, customer behavior, and pricing performance.
-
-### Highlights
-
-* Revenue optimization
-* Customer segmentation
-* Channel performance analysis
-* SQL analytics
-
-**Tech Stack**
-
-`PostgreSQL` `SQL Analytics` `Retail Analytics`
-
----
-
-# Analytics & Business Intelligence Portfolio
-
-| Project                             | Domain        | Focus                                             |
-| ----------------------------------- | ------------- | ------------------------------------------------- |
-| Hospital Revenue Insights Dashboard | Healthcare    | Revenue, Operational KPIs, Patient Trends         |
-| Supply Chain Performance Dashboard  | Logistics     | OTIF, Delivery Performance, Fulfillment Analytics |
-| Education Analytics System          | Education     | School Performance & Graduation Analytics         |
-| Library Analytics System            | Operations    | SQL Server + ETL + BI Analytics                   |
-| Ecommerce Analysis                  | Retail        | Funnel Analytics & Conversion Optimization        |
-| NYC Service Analysis                | Public Sector | Urban Analytics & Service Performance             |
-
----
-
-# Machine Learning Portfolio
-
-| Project                             | Area                           |
-| ----------------------------------- | ------------------------------ |
-| Heart Disease Risk Prediction       | Healthcare Machine Learning    |
-| Mobile Classification Deep Learning | Computer Vision                |
-| Football Player Statistics          | Sports Analytics               |
-| Movie Score Prediction NLP          | Sentiment Analysis             |
-| Algebra with Big Data               | PCA & Dimensionality Reduction |
-
----
-
 # Technical Toolkit
 
 ## Machine Learning
