@@ -70,91 +70,76 @@ Experienced across:
 * Cloud Analytics
 
 ---
-
 # Featured AI & Data Science Systems
 
-## CryptoPulse AI Agent
+<table>
+<tr>
+<td width="50%">
 
-LLM-powered cryptocurrency market intelligence platform built using CrewAI, Groq, Exa Search, and Alpha Vantage.
+### 🤖 CryptoPulse AI Agent
 
-### Highlights
+LLM-powered cryptocurrency market research platform using CrewAI, Groq, Exa Search, and Alpha Vantage.
 
-* Multi-agent financial research workflow
-* AI-powered market news analysis
-* Automated cryptocurrency intelligence reports
-* Real-time market monitoring
+**Tech:** CrewAI • Groq • Exa Search • AI Agents
 
-**Tech Stack**
+</td>
 
-`CrewAI` `Groq` `Exa Search` `Alpha Vantage` `Python` `AI Agents`
+<td width="50%">
 
----
+### 📄 Financial Document RAG Agent
 
-## Financial Document RAG Agent
+Financial intelligence assistant leveraging LangChain, FAISS, Hugging Face, and Groq for semantic document retrieval.
 
-AI-powered financial intelligence assistant built using LangChain, FAISS, Hugging Face Embeddings, Groq, Docling, and Gradio.
+**Tech:** LangChain • FAISS • RAG • Hugging Face
 
-### Highlights
+</td>
+</tr>
 
-* Semantic search over financial documents
-* Retrieval-Augmented Generation architecture
-* Financial document question answering
-* Vector database-powered retrieval
+<tr>
+<td width="50%">
 
-**Tech Stack**
+### ⚡ Energy Demand Forecasting
 
-`LangChain` `FAISS` `Hugging Face` `Groq` `RAG` `Gradio`
+Comparative forecasting framework evaluating ARIMA, XGBoost, and LSTM models on energy consumption data.
 
----
+**Tech:** ARIMA • XGBoost • TensorFlow • LSTM
 
-## Energy Demand Forecasting Lab
+</td>
 
-Comparative forecasting framework evaluating ARIMA, XGBoost, and LSTM models on household energy consumption data.
+<td width="50%">
 
-### Highlights
+### 🔥 PySpark Churn Prediction
 
-* Statistical forecasting
-* Machine Learning forecasting
-* Deep Learning forecasting
-* Model performance comparison
+Distributed machine learning pipeline for large-scale customer churn prediction and retention analytics.
 
-**Tech Stack**
+**Tech:** PySpark • Spark ML • Big Data • ML Pipelines
 
-`ARIMA` `XGBoost` `TensorFlow` `LSTM` `Time Series`
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## Scalable Churn Prediction Using PySpark
+### 🚕 Uber Data Analytics
 
-Distributed Machine Learning system built using PySpark and Spark ML for customer churn prediction.
+Cloud-native analytics platform processing Uber trip data through ETL pipelines and BigQuery.
 
-### Highlights
+**Tech:** GCP • BigQuery • ETL • Looker Studio
 
-* Distributed processing
-* Feature engineering
-* Churn prediction pipeline
-* Big Data machine learning
+</td>
 
-**Tech Stack**
+<td width="50%">
 
-`PySpark` `Spark ML` `Machine Learning Pipelines` `Big Data Analytics`
+### 📈 Revenue Retail Optimization
 
----
+End-to-end SQL analytics system focused on revenue growth, pricing, and customer behavior insights.
 
-## Uber Data Analytics Platform
+**Tech:** PostgreSQL • SQL Analytics • Retail Analytics
 
-Cloud-native analytics solution processing Uber trip data using ETL pipelines and BigQuery.
+</td>
+</tr>
+</table>
 
-### Highlights
-
-* Cloud data warehousing
-* ETL automation
-* Business intelligence reporting
-* Large-scale analytics
-
-**Tech Stack**
-
-`Google Cloud Platform` `BigQuery` `ETL` `Looker Studio`
 
 ---
 
