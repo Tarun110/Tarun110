@@ -2,185 +2,136 @@
 
 # Tarun Sai Reddy Kummetha
 
-### Data Scientist | AI/ML Engineer
+### Data Scientist | Machine Learning | Generative AI | Forecasting | Analytics Engineering
 
-Building Machine Learning, Generative AI, Forecasting, and Analytics Engineering solutions that transform complex data into measurable business impact.
+Building machine learning, analytics, forecasting, and AI-powered solutions that help organizations make smarter decisions and create measurable business impact.
 
 <p>
-  <a href="https://github.com/Tarun110">GitHub</a> •
   <a href="https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237">LinkedIn</a> •
-  <a href="https://public.tableau.com/app/profile/tarun.sai.reddy.kummetha">Tableau</a> •
   <a href="https://tarun110.github.io/tarunreddy.github.io/">Portfolio</a> •
-  <a href="mailto:tarun.kummetha12111@gmail.com">Email</a>
+  <a href="https://public.tableau.com/app/profile/tarun.sai.reddy.kummetha">Tableau</a> •
+  <a href="https://leetcode.com/u/Tarunnreddy/">LeetCode</a> •
+  <a href="https://www.hackerrank.com/profile/tarunn10_sai05">HackerRank</a> •
+  <a href="mailto:tarun.kummetha12111@gmail.com">Contact</a>
 </p>
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I am a Data Scientist focused on building intelligent systems using Machine Learning, Generative AI, Forecasting, Data Engineering, and Analytics.
+I am a Data Scientist passionate about using data to solve business problems, improve decision-making, and build intelligent systems.
 
-My work spans Finance, Healthcare, Retail, Energy, Supply Chain, and Public Sector analytics, with a strong focus on turning business problems into production-ready analytical solutions.
+My work spans Machine Learning, Generative AI, Forecasting, Analytics Engineering, Business Intelligence, and Data Engineering. Over the years, I have worked on projects across Finance, Healthcare, Retail, Energy, Supply Chain, and Public Sector domains, transforming complex data into predictive models, analytical solutions, and actionable insights.
 
-```python
-class DataScientist:
-
-    def __init__(self):
-        self.name = "Tarun Sai Reddy Kummetha"
-        self.role = "Data Scientist"
-        self.secondary_role = "AI/ML Engineer"
-
-        self.specializations = [
-            "Machine Learning",
-            "Generative AI",
-            "RAG Systems",
-            "Forecasting",
-            "Analytics Engineering",
-            "Data Engineering"
-        ]
-
-        self.current_focus = [
-            "AI Agents",
-            "Production RAG Systems",
-            "Time Series Forecasting",
-            "Big Data ML Pipelines",
-            "MLOps"
-        ]
-
-    def mission(self):
-        return "Transform data into intelligent business decisions"
-```
+I enjoy working across the entire analytics lifecycle—from data acquisition and engineering to model development, visualization, deployment, and stakeholder communication. My focus is always on creating practical solutions that deliver measurable value rather than building models for the sake of complexity.
 
 ---
 
-# Professional Background
+## Professional Highlights
 
-Currently building Machine Learning, Forecasting, Anomaly Detection, and AI-powered decision-support solutions.
-
-Experienced across:
-
-* Machine Learning
-* Generative AI & RAG
-* Big Data Analytics
-* Forecasting
-* Business Intelligence
-* Data Engineering
-* Cloud Analytics
-
----
-# Featured AI & Data Science Systems
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 CryptoPulse AI Agent
-
-LLM-powered cryptocurrency market research platform using CrewAI, Groq, Exa Search, and Alpha Vantage.
-
-**Tech:** CrewAI • Groq • Exa Search • AI Agents
-
-</td>
-
-<td width="50%">
-
-### 📄 Financial Document RAG Agent
-
-Financial intelligence assistant leveraging LangChain, FAISS, Hugging Face, and Groq for semantic document retrieval.
-
-**Tech:** LangChain • FAISS • RAG • Hugging Face
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ Energy Demand Forecasting
-
-Comparative forecasting framework evaluating ARIMA, XGBoost, and LSTM models on energy consumption data.
-
-**Tech:** ARIMA • XGBoost • TensorFlow • LSTM
-
-</td>
-
-<td width="50%">
-
-### 🔥 PySpark Churn Prediction
-
-Distributed machine learning pipeline for large-scale customer churn prediction and retention analytics.
-
-**Tech:** PySpark • Spark ML • Big Data • ML Pipelines
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚕 Uber Data Analytics
-
-Cloud-native analytics platform processing Uber trip data through ETL pipelines and BigQuery.
-
-**Tech:** GCP • BigQuery • ETL • Looker Studio
-
-</td>
-
-<td width="50%">
-
-### 📈 Revenue Retail Optimization
-
-End-to-end SQL analytics system focused on revenue growth, pricing, and customer behavior insights.
-
-**Tech:** PostgreSQL • SQL Analytics • Retail Analytics
-
-</td>
-</tr>
-</table>
-
+* Developed machine learning, forecasting, and analytics solutions across multiple industries and business functions.
+* Built Generative AI applications including Retrieval-Augmented Generation (RAG) systems and AI-powered assistants.
+* Experienced in predictive analytics, customer intelligence, anomaly detection, business performance analysis, and decision-support systems.
+* Strong background in data engineering, cloud analytics, ETL development, and large-scale data processing.
+* Passionate about bridging technical implementation with business objectives and measurable outcomes.
 
 ---
 
-# Technical Toolkit
+## Featured Projects
 
-## Machine Learning
+### Financial Document RAG Agent
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+AI-powered document intelligence platform enabling contextual question answering and semantic retrieval across financial reports and business documents.
 
-## Generative AI
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-6E40C9?style=for-the-badge)
-
-## Data Engineering
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-## Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud)
-
-## Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge)
+**Technologies:** LangChain • FAISS • Hugging Face • Groq • Retrieval-Augmented Generation
 
 ---
 
-# GitHub Analytics
+### CryptoPulse AI Agent
+
+Multi-agent research platform that automates cryptocurrency market analysis, news aggregation, trend monitoring, and insight generation.
+
+**Technologies:** CrewAI • Groq • Exa Search • Alpha Vantage
+
+---
+
+### Customer Churn Prediction with PySpark
+
+Distributed machine learning solution designed to identify high-risk customers and support proactive retention strategies at scale.
+
+**Technologies:** PySpark • Spark ML • Machine Learning
+
+---
+
+### Energy Demand Forecasting
+
+Forecasting framework evaluating statistical and machine learning approaches to predict energy demand and consumption trends.
+
+**Technologies:** ARIMA • XGBoost • TensorFlow • LSTM
+
+---
+
+### Uber Data Analytics Platform
+
+Cloud-native analytics solution built to process transportation datasets through scalable ETL pipelines and business reporting workflows.
+
+**Technologies:** Google Cloud Platform • BigQuery • ETL • Looker Studio
+
+---
+
+### Revenue Optimization Analytics
+
+Analytics platform focused on pricing strategy, customer behavior analysis, and revenue growth opportunities.
+
+**Technologies:** PostgreSQL • SQL • Business Analytics
+
+---
+
+## Technical Toolkit
+
+### Programming & Analytics
+
+Python • SQL • R • Pandas • NumPy
+
+### Machine Learning
+
+Scikit-Learn • XGBoost • TensorFlow • PyTorch • Spark ML
+
+### Generative AI
+
+LangChain • Hugging Face • OpenAI APIs • FAISS • CrewAI • Vector Databases
+
+### Data Engineering
+
+PySpark • ETL Pipelines • Data Warehousing • Big Data Processing
+
+### Cloud Platforms
+
+AWS • Microsoft Azure • Google Cloud Platform
+
+### Visualization & Reporting
+
+Power BI • Tableau • Looker Studio • Streamlit
+
+### Tools & Platforms
+
+Git • GitHub • Docker • MLflow • Jupyter Notebook
+
+---
+
+## Technical Profiles
+
+| Platform       | Profile                                                                            |
+| -------------- | ---------------------------------------------------------------------------------- |
+| LeetCode       | [View Profile](https://leetcode.com/u/Tarunnreddy/)                                |
+| HackerRank     | [View Profile](https://www.hackerrank.com/profile/tarunn10_sai05)                  |
+| Tableau Public | [View Dashboards](https://public.tableau.com/app/profile/tarun.sai.reddy.kummetha) |
+
+---
+
+## GitHub Analytics
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tarun110&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -194,35 +145,26 @@ End-to-end SQL analytics system focused on revenue growth, pricing, and customer
 
 ---
 
-# Current Focus
+## Let's Connect
 
-Currently building and exploring:
+Whether it's Data Science, Machine Learning, Generative AI, Analytics Engineering, Forecasting, or interesting data problems, I'm always happy to connect with fellow professionals, recruiters, hiring managers, and builders.
 
-* AI Agents for Financial Intelligence
-* Production RAG Systems
-* Forecasting Platforms
-* Big Data Machine Learning Pipelines
-* Cloud-Native Analytics Engineering
-* MLOps and Model Monitoring
+📧 **[Email Me](mailto:tarun.kummetha12111@gmail.com)**
 
----
+💼 **[LinkedIn](https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237)**
 
-# Let's Connect
+🌐 **[Portfolio Website](https://tarun110.github.io/tarunreddy.github.io/)**
 
-<p align="center">
-  <a href="https://github.com/Tarun110">GitHub</a> •
-  <a href="https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237">LinkedIn</a> •
-  <a href="https://public.tableau.com/app/profile/tarun.sai.reddy.kummetha">Tableau</a> •
-  <a href="https://tarun110.github.io/tarunreddy.github.io/">Portfolio</a> •
-  <a href="mailto:tarun.kummetha12111@gmail.com">Email</a>
-</p>
+📊 **[Tableau Public](https://public.tableau.com/app/profile/tarun.sai.reddy.kummetha)**
+
+💻 **[GitHub Projects](https://github.com/Tarun110)**
+
+</div>
 
 ---
 
 <div align="center">
 
-### Turning Data Into Models • Models Into Systems • Systems Into Business Impact
-
-⭐ If you find my projects useful, consider starring a repository.
+### Turning Data Into Insights • Insights Into Decisions • Decisions Into Impact
 
 </div>
