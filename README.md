@@ -32,13 +32,20 @@ I enjoy working across the entire analytics lifecycle—from data acquisition an
 
 ## Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### Financial Document RAG Agent
 
 AI-powered document intelligence platform enabling contextual question answering and semantic retrieval across financial reports and business documents.
 
-**Technologies:** LangChain • FAISS • Hugging Face • Groq • Retrieval-Augmented Generation
+**Technologies:** LangChain • FAISS • Hugging Face • Groq • RAG
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### CryptoPulse AI Agent
 
@@ -46,7 +53,13 @@ Multi-agent research platform that automates cryptocurrency market analysis, new
 
 **Technologies:** CrewAI • Groq • Exa Search • Alpha Vantage
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Customer Churn Prediction with PySpark
 
@@ -54,7 +67,9 @@ Distributed machine learning solution designed to identify high-risk customers a
 
 **Technologies:** PySpark • Spark ML • Machine Learning
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### Energy Demand Forecasting
 
@@ -62,7 +77,13 @@ Forecasting framework evaluating statistical and machine learning approaches to 
 
 **Technologies:** ARIMA • XGBoost • TensorFlow • LSTM
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Uber Data Analytics Platform
 
@@ -70,49 +91,38 @@ Cloud-native analytics solution built to process transportation datasets through
 
 **Technologies:** Google Cloud Platform • BigQuery • ETL • Looker Studio
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### Revenue Optimization Analytics
 
-Analytics platform focused on pricing strategy, customer behavior analysis, and revenue growth opportunities.
+Analytics platform focused on pricing strategy, customer behavior analysis, and identifying revenue growth opportunities.
 
 **Technologies:** PostgreSQL • SQL • Business Analytics
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## Technical Toolkit
 
-### Programming & Analytics
-
-Python • SQL • R • Pandas • NumPy
-
-### Machine Learning
-
-Scikit-Learn • XGBoost • TensorFlow • PyTorch • Spark ML
-
-### Generative AI
-
-LangChain • Hugging Face • OpenAI APIs • FAISS • CrewAI • Vector Databases
-
-### Data Engineering
-
-PySpark • ETL Pipelines • Data Warehousing • Big Data Processing
-
-### Cloud Platforms
-
-AWS • Microsoft Azure • Google Cloud Platform
-
-### Visualization & Reporting
-
-Power BI • Tableau • Looker Studio • Streamlit
-
-### Tools & Platforms
-
-Git • GitHub • Docker • MLflow • Jupyter Notebook
+| Domain           | Technologies                                         |
+| ---------------- | ---------------------------------------------------- |
+| Programming      | Python, SQL, R                                       |
+| Machine Learning | Scikit-Learn, XGBoost, TensorFlow, PyTorch, Spark ML |
+| Generative AI    | LangChain, FAISS, Hugging Face, CrewAI, OpenAI APIs  |
+| Data Engineering | PySpark, ETL Pipelines, Data Warehousing             |
+| Cloud            | AWS, Azure, Google Cloud                             |
+| Analytics & BI   | Power BI, Tableau, Looker Studio, Streamlit          |
+| Tools            | Git, GitHub, Docker, MLflow, Jupyter                 |
 
 ---
 
-## Technical Profiles
+## Coding & Analytical Profiles
 
 | Platform       | Profile                                                                            |
 | -------------- | ---------------------------------------------------------------------------------- |
@@ -142,12 +152,10 @@ Whether it's Data Science, Machine Learning, Generative AI, Analytics Engineerin
 
 📧 **[Email Me](mailto:tarun.kummetha12111@gmail.com)** | 💼 **[LinkedIn](https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237)** | 🌐 **[Portfolio Website](https://tarun110.github.io/tarunreddy.github.io/)** | 💻 **[GitHub Projects](https://github.com/Tarun110)**
 
-</div>
-
 ---
 
 <div align="center">
 
-### Turning Data Into Insights • Insights Into Decisions • Decisions Into Impact
+### Turning Data Into Intelligence • Intelligence Into Decisions • Decisions Into Business Impact
 
 </div>
