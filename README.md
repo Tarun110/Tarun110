@@ -6,15 +6,6 @@
 
 Building machine learning, analytics, forecasting, and AI-powered solutions that help organizations make smarter decisions and create measurable business impact.
 
-<p>
-  <a href="https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237">LinkedIn</a> •
-  <a href="https://tarun110.github.io/tarunreddy.github.io/">Portfolio</a> •
-  <a href="https://public.tableau.com/app/profile/tarun.sai.reddy.kummetha">Tableau</a> •
-  <a href="https://leetcode.com/u/Tarunnreddy/">LeetCode</a> •
-  <a href="https://www.hackerrank.com/profile/tarunn10_sai05">HackerRank</a> •
-  <a href="mailto:tarun.kummetha12111@gmail.com">Contact</a>
-</p>
-
 </div>
 
 ---
@@ -149,15 +140,7 @@ Git • GitHub • Docker • MLflow • Jupyter Notebook
 
 Whether it's Data Science, Machine Learning, Generative AI, Analytics Engineering, Forecasting, or interesting data problems, I'm always happy to connect with fellow professionals, recruiters, hiring managers, and builders.
 
-📧 **[Email Me](mailto:tarun.kummetha12111@gmail.com)**
-
-💼 **[LinkedIn](https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237)**
-
-🌐 **[Portfolio Website](https://tarun110.github.io/tarunreddy.github.io/)**
-
-📊 **[Tableau Public](https://public.tableau.com/app/profile/tarun.sai.reddy.kummetha)**
-
-💻 **[GitHub Projects](https://github.com/Tarun110)**
+📧 **[Email Me](mailto:tarun.kummetha12111@gmail.com)** | 💼 **[LinkedIn](https://www.linkedin.com/in/tarun-sai-reddy-k-3182b2237)** | 🌐 **[Portfolio Website](https://tarun110.github.io/tarunreddy.github.io/)** | 💻 **[GitHub Projects](https://github.com/Tarun110)**
 
 </div>
 
