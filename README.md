@@ -1,5 +1,4 @@
 <div align="center">
-
 # Tarun Sai Reddy Kummetha
 
 ### Data Scientist | Machine Learning | Generative AI | Forecasting | Analytics Engineering
